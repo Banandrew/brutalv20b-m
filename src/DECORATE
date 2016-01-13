@@ -1,13 +1,13 @@
 //////////////
 // This is version 0.1
-// 
-// A patch for Brutal Doom v20b to make destroyable bodies, gore and special
-// effects from singleplayer work in multiplayer. Report bugs via GitHub issues
-// please, or, if you can figure out a fix yourself, do a pull request there,
-// and don't forget to credit yourself in README.md and main DECORATE.
 //
-// Scraped together by Andrew Golubev from v20b's source. Many thanks to
-// communities over at ZDoom and Zandronum forums for pointing me in the right direction.
+// A patch for Brutal Doom v20b by Sergeant_Mark_IV and contributors to make
+// destroyable bodies from single-player work in multiplayer. Please report bugs
+// via GitHub issues; pull requests are more than welcome, and don't forget to
+// credit yourself in README.md and DECORATE.
+//
+// Scraped together by Andrew Golubev from Brutal Doom's source. Many thanks to
+// communities on Zandronum and ZDoom forums for pointing in the right direction.
 //
 // GitHub page: http://
 // ModDB page: http://
