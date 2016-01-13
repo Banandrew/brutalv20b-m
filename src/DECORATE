@@ -1,0 +1,75 @@
+//////////////
+// This is version 0.1
+// 
+// A patch for Brutal Doom v20b to make destroyable bodies, gore and special
+// effects from singleplayer work in multiplayer. Report bugs via GitHub issues
+// please, or, if you can figure out a fix yourself, do a pull request there,
+// and don't forget to credit yourself in README.md and main DECORATE.
+//
+// Scraped together by Andrew Golubev from v20b's source. Many thanks to
+// communities over at ZDoom and Zandronum forums for pointing me in the right direction.
+//
+// GitHub page: http://
+// ModDB page: http://
+// Contributors: none as of yet.
+//////////////
+
+
+// Decorations
+#include M_DEAD.txt
+
+// Enemies
+#include M_ZOMBIEMEN.txt
+#include M_SERGEANTS.txt
+#include M_COMANDO.txt
+#include M_IMPS.txt
+#include M_DEMONS.txt
+#include M_SPECTRE.txt
+#include M_KNIGHT.txt
+#include M_BARON.txt
+#include M_LOSTSOUL.txt
+#include M_SPIDERS.txt
+#include M_REVENANT.txt
+#include M_MANCUBUS.txt
+#include M_CACODEMO.txt
+#include M_PAIN.txt
+#include M_ARCHVILE.txt
+#include M_CYBERDEMON.txt
+#include M_MASTERMIND.txt
+// ST monsters
+#include M_BELPHEGOR.txt
+#include M_JUGGERNAUT.txt
+
+//Gore and blood
+#include M_GORE!!!.txt
+#include M_GORE2.txt
+#include M_GORE3.txt
+#include M_BLOOD.txt
+#include M_BLOODSPLASH.txt
+#include M_NAZIS.txt
+
+// Miscellaneous
+#include EEEVILLL.txt
+
+// Player classes
+#include M_PLAYER.txt
+#include M_MARINES.txt
+
+// Former DECORATEs
+#include M_DyingGuys.txt
+#include M_LastStandMonsters.txt
+#include M_SpecialDoom1Bosses.txt
+#include M_CapturedMarine.txt
+#include M_ChaingunMarine.txt
+#include M_ShotgunMarine.txt
+#include M_PlasmagunMarine.txt
+#include M_RocketLauncherMarine.txt
+#include M_BFGMarine.txt
+#include M_UnderwaterMonsters.txt
+#include M_StealthMonsters.txt
+#include M_Epic2Sstuff.txt
+#include M_STICKY.txt
+#include M_GreenBlood.txt
+#include M_BlueBlood.txt
+#include M_Underwaterblood.txt
+#include M_Junk.txt
