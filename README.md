@@ -13,7 +13,7 @@ The goal was to create a lightweight add-on, so that people could still use the 
 ## How to compile?
 1. Clone the repository or download the latest release as a *.zip file;
 2. open [CLI](https://en.wikipedia.org/wiki/Command-line_interface) in the directory where `compile.bat` file is located;
-3. run `compile.bat src` command inside of a CLI to get a `brutalv20b-m.pk3` that you can run with Zandronum.
+3. run `compile.bat src` command inside of a CLI to get a `brutalv20b-m-v*.pk3` that you can run with Zandronum.
 
 ## Contributors
 Many thanks to communities from Zandronum and ZDoom forums for pointing in the right direction.
