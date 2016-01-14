@@ -10,7 +10,7 @@ set PKNAME=%2
 goto continue
 
 :defaultname
-set PKNAME=brutalv20b-m.pk3
+set PKNAME=brutalv20b-m-v1.pk3
 
 :continue
 

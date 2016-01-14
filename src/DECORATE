@@ -1,5 +1,5 @@
 //////////////
-// This is version 0.1
+// This is a version 1 that was released on the 14th of January, 2016.
 //
 // A patch for Brutal Doom v20b by Sergeant_Mark_IV and contributors to make
 // destroyable bodies from single-player work in multiplayer. Please report bugs
@@ -9,9 +9,9 @@
 // Scraped together by Andrew Golubev from Brutal Doom's source. Many thanks to
 // communities on Zandronum and ZDoom forums for pointing in the right direction.
 //
-// GitHub page: http://
-// ModDB page: http://
-// Contributors: none as of yet.
+// GitHub page: https://github.com/Banandrew/brutalv20b-m
+// ModDB page: http://www.moddb.com/mods/brutal-doom/addons/brutalv20b-m
+// Contributors: various community members from Zandronum and ZDoom forums.
 //////////////
 
 
